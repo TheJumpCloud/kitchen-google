@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.license     = "Apache 2.0"
 
   s.add_dependency "gcewinpass",        "~> 1.0"
-  s.add_dependency "google-api-client", "~> 0.9.0"
+  s.add_dependency "google-api-client", "~> 0.13.1"
   s.add_dependency "test-kitchen"
 
   s.add_development_dependency "bundler"
